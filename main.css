@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: azure;
+}
+
+.container {
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.head {
+    width: 10%;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Gill Sans MT';
+}
+
+p {
+    font-family: 'Segoe UI';
+    font-size: 15px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: brown;
+    color: azure;
+    border-color: beige;
+}
+
+.emoji {
+    width: 15%;
+}
+
